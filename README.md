@@ -16,7 +16,7 @@
 <table border="0">
   <tr>
     <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=palaksrivastava2311&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" /></td>
-    <td><img src="https://leetcode.com/u/palaksrivastava2311/?theme=dark&font=Ubuntu" alt="LeetCode Stats" /></td>
+    <td><img src="https://leetcard.jacoblin.cool/palaksrivastava2311?theme=dark&font=Ubuntu" alt="LeetCode Stats" /></td>
   </tr>
 </table>
 ---
